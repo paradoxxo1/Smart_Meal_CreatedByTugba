@@ -1,0 +1,6 @@
+{
+  "name": "IQ Masters: Beyin Egzersizleri",
+  "description": "Zihinsel becerilerinizi geliştirecek 65 seviyelik Zeka bulmacaları, Küresel Liderlik Sıralaması (Leaderboard), Lig Sistemi, Zombi İstilası, Bomba İmha ve Uzay Görevi modlarıyla donatılmış beyin jimnastiği oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
